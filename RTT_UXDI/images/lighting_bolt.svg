@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="40px" height="55px" viewBox="0 0 40 55" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 39.1 (31720) - http://www.bohemiancoding.com/sketch -->
+    <title>lighting bolt</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Run-The-Town-V3.2" transform="translate(-840.000000, -973.000000)" fill="#0C0C0C">
+            <g id="top-section" transform="translate(42.000000, 928.000000)">
+                <g id="lighting-bolt" transform="translate(798.000000, 45.000000)">
+                    <g id="Page-1">
+                        <g id="icon-72-lightning">
+                            <path d="M22.0606949,18.1818182 L31.2726385,18.1818182 L9.09090909,40.3636585 L14.4678415,25.4545455 L5.09099782,25.4545455 L13.454368,3.63636364 L27.6362749,3.63636364 L22.0606949,18.1818182 L22.0606949,18.1818182 L22.0606949,18.1818182 Z M9.25619818,29.0909091 L0,29.0909091 L10.9090909,0 L32.7272727,0 L27.2727273,14.5454545 L40,14.5454545 L0,54.5454545 L9.25619818,29.0909091 L9.25619818,29.0909091 L9.25619818,29.0909091 Z" id="lightning"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
