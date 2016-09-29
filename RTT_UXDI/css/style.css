@@ -1,169 +1,21 @@
-@font-face {
-    font-family: 'bebasregular';
-    src: url('bebas___-webfont.woff2') format('woff2'),
-         url('bebas___-webfont.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
-}
-@font-face {
-    font-family: 'goboldregular';
-    src: url('gobold_regular-webfont.woff2') format('woff2'),
-         url('gobold_regular-webfont.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
-
-}
-@import url("https://fonts.googleapis.com/css?family=Muli");
-
 *{
 	box-sizing: border-box;
-	margin:0;
-	padding:0;
 }
-.clearfix:after{
-	visibility: hidden;
-	height: 0;
-	font-size: 0;
-	content: " ";
-	display: block;
-	clear: both;
-}
-body{
-	font-family: 'gobold', sans-serif;
-	font-size: 18px;
-}
+nav.header a{
 
-h2{
+}
+h1{
 	text-align: center;
 }
-
-p{
-	font-family: 'Muli', sans-serif;
-	font-weight: lighter;
-}
-a{
-	text-decoration: none;
-	color: #0F0F0F;
-}
-a:hover{
-	color: #EA9554;
-}
-nav a{
-	padding: 1em;
-	display: inline-block;
-}
-
-.button{
-	float: right;
-	margin: .5em.2em;
-}
-
-#sign_up{
-	border-style: none;
-	background-color: #7F3B2F;
-	padding: .5em 2em;
-	color: #fff;
-}
-#sign_up:hover{
-	background-color: #2C2C2B;
-}
-
-#sign_in{
-	border-style: none;
-	background-color: #F9A25C;
-	padding: .5em 2em;
-	color: #fff;
-}
-#sign_in:hover{
-	background-color: #2C2C2B;
-}
-
-.first{
-	background-image: url(../images/HERO_COLOR_FINAL.png);
-	background-size: cover;
-	height: 100vh;
-}
-
-#logo{
-	height: 5em;
-	margin-top: 14em;
-	margin-left: 2em;
-}
-
-h3{
-	text-align: center;
-}
-
-.second h2{
-	margin-top: 6em;
-}
-
-.secondwrapper{
-	margin: 6em 14em 0;
-}
-
-.benefitswrapper{
-	width: 14.5em;
-	margin: 1em;
-	/*display: inline-block;*/
-	float: left;
-	text-align: justify;
-}
-
-#connected{
-	margin: 0 6em;
-}
-
-#inspired{
-	margin: 0 6em;
-}
-
-#lighting{
-	margin: 0 6em;
-}
-
-.screenwrapper{
-	width: 15.5em;
-	text-align: justify;
-	margin: 6em;
-}
-
-.ui{
-	margin-top: 11em;
-}
-
-#watch{
-	/*float: left;*/
-    /*width: 16em;*/
-    /*margin: 0 0 15px 20px;*/
-    /*padding: 15px;*/
-    /*border: 1px solid black;*/
-    /*text-align: center;*/
-}
-#track{
+div.blog{
+	width: 33.33%;
 	float: left;
 }
 
-.fourth{
-	background-image: url(../images/girl_hero.png);
-	background-size: cover;
-	height: 100vh;
+section.about div.description {
+	float: left;
+	width: 70%;
 }
-h2.connect{
-	background-color: #2C2C2B;
-	color: #EA9554;
-}
-
-#bottom_button{
-	border-style: none;
-	background-color: #0F0F0F;
-	padding: .5em 3em;
-	color: #fff;
-}
-
-footer{
-	/*background-image: url(../images/footer_image.png);*/
-	/*background-size: cover;*/
-	/*background-repeat: none;*/
-	/*width: 1024px;*/
+a img {
+	width: 50px;
 }
