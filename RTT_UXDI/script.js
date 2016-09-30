@@ -1,11 +1,6 @@
-console.log("hello world")
-
-var sentence = "this is a string!"
-var number = 5 + 5
-
-var counter = 0
-
-$("h1").on("click", function(){
-	$("h1").html(counter)
-	counter = counter + 1
+var contY = $(".container").offset().top
+$(document).on("scroll", function(e){
+  if($(this).scrollTop() > contY - 400){
+    $(".container").addClass("is-visible")
+  }
 })
